@@ -1,0 +1,4 @@
+[submodule "theme0"]
+	path = basePath002/_themes
+	url = https://github.com/Microsoft/templates.docs.msft
+	branch = master
