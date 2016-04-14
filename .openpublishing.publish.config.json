@@ -6,7 +6,7 @@
       "docset_name": "docsetName2",
       "build_source_folder": null,
       "build_output_subfolder": "basePath002",
-      "build_entry_point": "docs.ps1",
+      "build_entry_point": "docs",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,

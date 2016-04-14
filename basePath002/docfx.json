@@ -7,7 +7,8 @@
         ],
         "exclude": [
           "**/obj/**",
-          "basePath002/**"
+          "basePath002/**",
+          "_themes/**"
         ],
         "src": null,
         "dest": null
